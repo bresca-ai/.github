@@ -9,7 +9,7 @@
 
 <h1 align="center">Bresca</h1>
 <p align="center"><strong>AI assistants, private AI and software built around your business.</strong><br>Barcelona, working worldwide.</p>
-<p align="center"><a href="https://bresca.ai">Website</a> · <a href="https://bresca.ai/en/projects">Our work</a> · <a href="https://bresca.ai/en/contact">Start a project</a> · <a href="mailto:hello@bresca.ai">hello@bresca.ai</a></p>
+<p align="center"><a href="https://bresca.ai">Website</a> · <a href="https://bresca.ai/en/contact">Start a project</a> · <a href="mailto:hello@bresca.ai">hello@bresca.ai</a></p>
 
 ## What we build
 
@@ -23,19 +23,6 @@ Our work spans websites, booking platforms, integrations and operational tools. 
 | --- | --- | --- |
 | **ReserBee** | Websites, bookings, payments and automation for service businesses. | [reserbee.app](https://reserbee.app) |
 | **TrailReplay** | Turn GPX and KML routes into animated 3D maps and videos in the browser. | [trailreplay.com](https://trailreplay.com) · [Open-source code](https://github.com/alexalmansa/TrailReplay) |
-
-## Selected client work
-
-| Project | Focus |
-| --- | --- |
-| [Barcelona International Futsal Experience](https://bifexperience.com) | Futsal training programmes, team trips and tournaments. |
-| [Mountain Memories](https://mtnmemories.com) | Ski retreats and hospitality in Hokkaido. |
-| [Little Steps](https://littlestepstdh-frontend.pages.dev) | Support for families navigating ADHD. |
-| [Camello Bandido](https://camellobandido-frontend.pages.dev) | Restaurant discovery, menus and reservations. |
-| [The Warriors Tournament](https://twtmma.com) | MMA and boxing events in Barcelona. |
-| [Union Fighters Team](https://unionfteam.com) | Martial arts and combat sports. |
-
-[See the portfolio →](https://bresca.ai/en/projects)
 
 ## On GitHub
 
