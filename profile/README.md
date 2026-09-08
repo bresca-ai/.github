@@ -26,6 +26,6 @@ Our work spans websites, booking platforms, integrations and operational tools. 
 
 ## On GitHub
 
-Our [reusable CI workflows](https://github.com/bresca-ai/reserbee-actions) keep validation consistent and bounded. Public projects document their own setup, contribution process and licensing. Client applications and internal operations repositories are private.
+Our [reusable CI workflows](https://github.com/bresca-ai/bresca-actions) keep validation consistent and bounded. Public projects document their own setup, contribution process and licensing. Client applications and internal operations repositories are private.
 
 For a new project or product support, [get in touch](https://bresca.ai/en/contact). For a code issue, use the relevant public repository.
