@@ -22,7 +22,7 @@ Our work spans websites, booking platforms, integrations and operational tools. 
 | Product | What it does | Explore |
 | --- | --- | --- |
 | **ReserBee** | Websites, bookings, payments and automation for service businesses. | [reserbee.app](https://reserbee.app) |
-| **TrailReplay** | Turn GPX and KML routes into animated 3D maps and videos in the browser. | [trailreplay.com](https://trailreplay.com) · [Open-source code](https://github.com/alexalmansa/TrailReplay) |
+| **TrailReplay** | Turn GPX and KML routes into animated 3D maps and videos in the browser. | [trailreplay.com](https://trailreplay.com) · [Open-source code](https://github.com/bresca-ai/TrailReplay) |
 
 ## On GitHub
 
